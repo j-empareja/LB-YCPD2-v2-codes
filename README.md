@@ -29,9 +29,8 @@ The program may directly be downloaded from the given GitHub Repository. On the 
 Once the file has been installed, extracted, and opened in PyCharm, an interpreter must then be set up by modifying the <i>Edit Configurations</i> tab of the project, specifically the <b>.exe</b> file available under the downloaded Python version of the interpreter. 
 
 ### Executing the Program
-
+<b>Within the Python Terminal of Pycharm:</b>
 <ol>
-  Within the Python Terminal of Pycharm:
   <li>Execute the command <b>pip install django-crispy-forms</b></li>
   <li>Execute the command <b>py manage.py runserver</b></li>
   <li>Click the provided URL within the Python Terminal</li>
@@ -65,8 +64,8 @@ Once the file has been installed, extracted, and opened in PyCharm, an interpret
   ## Revision Logs and Version History
   
   * 1.8
-    * Data representation is now implemented in the program.
-    * Design-wise, the program has an evident color theme.
+    * Data visualization is now implemented in the program.
+    * Revised the program's overall color-scheme.
   * 1.7
     * All user cases were implemented in the program.
     * The CSS designs are formatted along with the layout of the back-end functions.
