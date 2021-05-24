@@ -1,6 +1,6 @@
 # MicroManage: A Microbusiness Manager Program
 
-**Version 1.6**
+**Version 1.8**
 
 A microbusiness manager program that allows for the record keeping of data in managing transactions created, the products and raw materials used within the business, as well as the analysis of the trends of the business' income, including its item trends.
 
@@ -32,6 +32,7 @@ Once the file has been installed, extracted, and opened in PyCharm, an interpret
 
 <ol>
   Within the Python Terminal of Pycharm:
+  <li>Execute the command <b>pip install django-crispy-forms</b></li>
   <li>Execute the command <b>py manage.py runserver</b></li>
   <li>Click the provided URL within the Python Terminal</li>
   <ol type='a'>
