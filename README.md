@@ -43,11 +43,11 @@ Once the file has been installed, extracted, and opened in PyCharm, an interpret
     <li>Login Credentials will be asked if there is an existing account.</li>
     <li>User may opt to register to create an account.</li>
     <ol type='i'>
-      <li>Upon registration of username and password, business name, description, and logo are requested.</li>
+      <li>Upon registration of username and password, the business' products and raw materials are requested.</li>
     </ol>
   </ol>
   <li>Home Page will be displayed.</li>
-  <li>The summarized content of the business will be displayed, showing the gross and net income of the business, the most sold item, and graphical representation of the data retrieved within the accumulated databases.
+  <li>The summarized content of the business will be displayed, showing the gross and net income of the business, the most sold item, and graphical representation of the data retrieved within the accumulated databases. As of the moment, only the most sold product of the business is shown at the home page.
   <li>User may opt to execute the following pages</li>
     <ol>
       <li><i>Add New Order</i> to add a new transaction to be added to the database</li>
@@ -63,6 +63,12 @@ Once the file has been installed, extracted, and opened in PyCharm, an interpret
   
   ## Revision Logs and Version History
   
+  * 1.8
+    * Data representation is now implemented in the program.
+    * Design-wise, the program has an evident color theme.
+  * 1.7
+    * All user cases were implemented in the program.
+    * The CSS designs are formatted along with the layout of the back-end functions.
   * 1.6
     * Modularized functions in accordance to their primary task.
     * Revised functions under the products module to be executed under PostgreSQL.
